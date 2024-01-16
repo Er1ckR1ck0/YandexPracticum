@@ -1,0 +1,42 @@
+{
+    "6111311663": {
+        "states": 5,
+        "correct_answer": 3,
+        "wront_answer": 1
+    },
+    "689083096": {
+        "states": 5,
+        "correct_answer": 4,
+        "wront_answer": 0
+    },
+    "596095065": {
+        "states": 5,
+        "correct_answer": 2,
+        "wront_answer": 2
+    },
+    "1178466399": {
+        "states": 3,
+        "correct_answer": 2,
+        "wront_answer": 0
+    },
+    "5477700080": {
+        "states": 5,
+        "correct_answer": 3,
+        "wront_answer": 1
+    },
+    "2070048511": {
+        "states": 5,
+        "correct_answer": 1,
+        "wront_answer": 3
+    },
+    "2030011909": {
+        "states": 5,
+        "correct_answer": 2,
+        "wront_answer": 2
+    },
+    "432472285": {
+        "states": 1,
+        "correct_answer": 0,
+        "wront_answer": 0
+    }
+}
